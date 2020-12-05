@@ -1,2 +1,2 @@
-# exe-psw-package-manager
-A package manager for processing .exe files into a .psw file, for Pseudo Windows
+# .exe to .psw
+A way to process .exe files into  .psw files.
